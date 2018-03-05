@@ -970,22 +970,8 @@ df_pd.head()
 
 ```python
 df_pd.count()
+df_pd.to_csv("Output.csv",index = False)
 ```
-
-
-
-
-    Lat           583
-    Lng           583
-    City Name     583
-    Country       583
-    Temp          583
-    Humidity      583
-    Cloudiness    583
-    Wind Speed    583
-    dtype: int64
-
-
 
 
 ```python
