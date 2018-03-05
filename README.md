@@ -1,4 +1,7 @@
-
+## Weather Analysis:
+- According to the scatter plot of "City Latitude vs. Temperature", you can tell that latitude is one of the main factors affecting the temperature. The closer to the equator (which latitude = 0), the higher of the temperature. The closer to the poles, the lower of the temperature. 
+- It doesn't seem like there is correlation between percent of humidity and city latitude. It seems like the closer to the equator, the dots of humidity are closer to 100%.
+- It seems like there is no correlation between percent of cloudiness vs. city latitude, or wind speed vs. city latitude. Mostly the range of wind speed is 0-10 (mph).
 
 ```python
 import requests
